@@ -1,30 +1,6 @@
-
-    <title>Tickets System
-    </title>
-
-<body>
-    <div id="page-container" class="page-header-dark main-content-boxed remember-theme">
-        <header id="page-header">
-            <!-- Header Content -->
-            <div class="content-header">
-                <!-- Left Section -->
-                <div class="d-flex align-items-center">
-                    <!-- Logo -->
-                    <a class="luxury-logo-container" href="https://waxa.pw/main" title="Premium Trading Platform">
-                        <div class="luxury-frame">
-                            <!-- Golden Particles -->
-                            <div class="luxury-particle lp1"></div>
-                            <div class="luxury-particle lp2"></div>
-                            <div class="luxury-particle lp3"></div>
-                            <div class="luxury-particle lp4"></div>
  
-                            <!-- Main Logo -->
-                            <img src="https://png.pngtree.com/png-vector/20240612/ourmid/pngtree-monkey-smoke-sigarate-png-image_12720609.png" alt="Premium Logo" class="luxury-logo-image">
-                        </div>
-                    </a>
-                    <!-- END Logo -->
- 
-                    <style>
+
+       <style>
                         .luxury-logo-container {
                             display: inline-block;
                             position: relative;
